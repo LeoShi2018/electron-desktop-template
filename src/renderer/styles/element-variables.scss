@@ -1,0 +1,60 @@
+// Element Plus 主题变量自定义
+
+// 主色调
+$el-color-primary: #409eff;
+$el-color-success: #67c23a;
+$el-color-warning: #e6a23c;
+$el-color-danger: #f56c6c;
+$el-color-error: #f56c6c;
+$el-color-info: #909399;
+
+// 文本颜色
+$el-text-color-primary: #303133;
+$el-text-color-regular: #606266;
+$el-text-color-secondary: #909399;
+$el-text-color-placeholder: #a8abb2;
+$el-text-color-disabled: #c0c4cc;
+
+// 边框颜色
+$el-border-color: #dcdfe6;
+$el-border-color-light: #e4e7ed;
+$el-border-color-lighter: #ebeef5;
+$el-border-color-extra-light: #f2f6fc;
+$el-border-color-dark: #d4d7de;
+$el-border-color-darker: #cdd0d6;
+
+// 填充颜色
+$el-fill-color: #f0f2f5;
+$el-fill-color-light: #f5f7fa;
+$el-fill-color-lighter: #fafafa;
+$el-fill-color-extra-light: #fafcff;
+$el-fill-color-dark: #ebedf0;
+$el-fill-color-darker: #e6e8eb;
+$el-fill-color-blank: #ffffff;
+
+// 背景颜色
+$el-bg-color: #ffffff;
+$el-bg-color-page: #f2f3f5;
+$el-bg-color-overlay: #ffffff;
+
+// 字体
+$el-font-family:
+  'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑',
+  Arial, sans-serif;
+$el-font-size-extra-large: 20px;
+$el-font-size-large: 18px;
+$el-font-size-medium: 16px;
+$el-font-size-base: 14px;
+$el-font-size-small: 13px;
+$el-font-size-extra-small: 12px;
+
+// 圆角
+$el-border-radius-base: 4px;
+$el-border-radius-small: 2px;
+$el-border-radius-round: 20px;
+$el-border-radius-circle: 100%;
+
+// 组件尺寸
+$el-component-size-large: 40px;
+$el-component-size: 32px;
+$el-component-size-small: 24px;
